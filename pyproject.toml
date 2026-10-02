@@ -1,0 +1,25 @@
+[project]
+name = "united-states-of-banan"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "causalpfn==0.1.5",
+    "econml==0.16.0",
+    "einops==0.8.1",
+    "huggingface-hub==0.32.4",
+    "ipython>=9.17.1",
+    "matplotlib==3.10.3",
+    "networkx>=3.7",
+    "numpy==1.26.4",
+    "pandas==2.2.3",
+    "pillow>=12.3.0",
+    "scikit-learn==1.6.1",
+    "scipy==1.17.1",
+    "seaborn==0.13.2",
+    "statsmodels==0.14.6",
+    "tabpfn==2.0.9",
+    "tabulate==0.9.0",
+    "torch==2.7.0",
+]
